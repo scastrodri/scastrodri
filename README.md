@@ -5,8 +5,7 @@ Python, SQL, and everything that I could find and learn in that path.
 
 ## What would you find here?
 
-- I'll publish different repositories with the exercises of every course that I take, according to my progress on these. But, I will not share quizzes, solutions, 
-or any assignments from those courses.
+- I'll publish different repositories with the exercises of every course that I take, according to my progress on these.
 
 - I'll share datasets, databases, or any information necesary to go through the excercises. Although it will be just when the information is public, 
 with every link, licence and the necesary metadata.
