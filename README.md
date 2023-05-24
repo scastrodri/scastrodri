@@ -1,6 +1,6 @@
 # Hi! I'm Sergio Castro 💻
 
-I'm a Python developer with knowledge in SQL (MySQL, PostgreSQL, SQLite) and a Data Engineer enthusiastic.
+I'm a Python developer and a Data Engineer enthusiastic with knowledge in SQL (MySQL, PostgreSQL, SQLite).
 
 ## What would you find here?
 
